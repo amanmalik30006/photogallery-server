@@ -1,0 +1,2 @@
+# photogallery-server
+Server
